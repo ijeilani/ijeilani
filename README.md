@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi ,I'm Iman ✨
 
-<!--
-**ijeilani/ijeilani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩🏽‍🎓Information Technology graduate<br/>
+👩🏽‍💻Frontend Dev<br/>
+✨UI / UX Designer<br/>
 
-Here are some ideas to get you started:
+# Skills 👩🏽‍💻:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ijeilani&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=true&layout=compact) <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://nirzak-streak-stats.vercel.app/?user=ijeilani&theme=shadow_blue&hide_border=true)<br/>
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
