@@ -1,6 +1,6 @@
 ## Hi ,I'm Iman ✨
 
-👩🏽‍🎓Information Technology graduate<br/>
+👩🏽‍🎓IT <br/>
 👩🏽‍💻Frontend Dev<br/>
 ✨UI / UX Designer<br/>
 
